@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: 
 url: "https://prith13.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
