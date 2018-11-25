@@ -1,5 +1,9 @@
 # SITE CONFIGURATION
+<<<<<<< HEAD
 baseurl: "https://prith13.github.io/prith13.github.io/"
+=======
+baseurl: "prith13.github.io/prith13.github.io/"
+>>>>>>> e982fce47efca903aee2c56aa5c84ea1eadfa4ef
 url: "https://prith13.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -47,7 +51,7 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: true # Enable the search feature
+  search: false # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
