@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: 
+baseurl: "https://prith13.github.io/prith13.github.io/"
 url: "https://prith13.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Type-Theme  # If using the theme as a jekyll theme gem
   avatar: 
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
