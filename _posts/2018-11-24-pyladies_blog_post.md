@@ -1,3 +1,7 @@
+---
+layout: post
+title: Hello World
+---
 
 <div class='iframe_container'>
 	<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1-ZRM83Z4u8TFBUcWHuvfBrZUSx5dnvD4/page/Kb0c" frameborder="0" style="border:0" allowfullscreen></iframe>
