@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: PyLadies Overview
 ---
 
 <div class='iframe_container'>

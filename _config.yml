@@ -5,7 +5,7 @@ url: "https://prith13.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type-Theme  # If using the theme as a jekyll theme gem
+  title: Prithvi Gandhi  # If using the theme as a jekyll theme gem
   avatar: 
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
