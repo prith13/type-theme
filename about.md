@@ -2,11 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/about-page-laptop.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Prithvi is a data scientist who is passionate about using data science to improve the world and solve real-world problems. She also loves working on data side-projects and her favorite tools are Python and SQL. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Prithvi studied engineering as an undergraduate and has work experience in the online media industry in New York City. 
+
+As a lifelong learner, she loves learning about new technologies and wants to use her background and experience for social good.
+
+For job opportunities, collaborations, freelance work, or even just to say hi, reach out to her by email or LinkedIn!
